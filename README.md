@@ -8,7 +8,7 @@ It is split into two real-world case studies:
 
 ---
 
-## 🧰 Tools & Skills Used
+## Tools & Skills Used
 
 - SQlite3- SQL-based Exploratory Data Analysis (EDA)
 - Python
